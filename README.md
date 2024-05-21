@@ -1,0 +1,1 @@
+This repo is tiny fork intended for use as git submodule. see https://github.com/idbrii/godot-debugdraw2d/tree/dev/addons/debugdraw2d
